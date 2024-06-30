@@ -3,7 +3,7 @@ This Python script checks the security of a password against known breaches usin
 ## Installation
 **1. Clone the repository:**
 ```bash
-git clone
+git clone https://github.com/Spandana-M-Patil/password-security-checker.git
 ```
 **2. Install dependencies:**
 ```bash
